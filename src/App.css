@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+::-webkit-scrollbar {
+    width: 11px;
+    background-color: #111;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(114, 114, 114);
+    border-radius: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    background-color: #111;
+}
